@@ -104,7 +104,7 @@ Void Reason Count: Value used on a stacked bar chart.  It ensures accurate filte
  </tr>
  <tr>
   <td>
-   <img src="" width="642">
+   <img src="https://github.com/Bill-Davis-data/Candidate-Project-1/blob/main/Assets/Sales%20Performance%20Page.png" width="642">
   </td>
  </tr>
 </table>
@@ -114,7 +114,7 @@ Void Reason Count: Value used on a stacked bar chart.  It ensures accurate filte
 <table>
  <tr>
   <td>
-   The Voided Orders page also provides two deliverables:<br>
+   The <strong>Voided Orders</strong> page also provides two deliverables:<br>
    3. Percent of orders that were created in 2024 that ultimately ended up being voided.<br>
    4. Top 5 reasons for voided orders over time 2022, 2023 and 2024.<br>
    <br>
@@ -126,7 +126,7 @@ Void Reason Count: Value used on a stacked bar chart.  It ensures accurate filte
  </tr>
  <tr>
   <td>
-   <img src="" width="642">
+   <img src="https://github.com/Bill-Davis-data/Candidate-Project-1/blob/main/Assets/Voided%20Orders%20Page.png" width="642">
   </td>
  </tr>
 </table>
@@ -136,7 +136,7 @@ Void Reason Count: Value used on a stacked bar chart.  It ensures accurate filte
 <table>
  <tr>
   <td>
-   The Sales by Region & Type page provides the last deliverable:<br>
+   The <strong>Sales by Region & Type</strong> page provides the last deliverable:<br>
    5. Any other visuals/datapoints that you think may be interesting to sales management.<br>
    <br>
    A pie chart was created to compare the sum of all units sold per region.<br>
@@ -148,7 +148,7 @@ Void Reason Count: Value used on a stacked bar chart.  It ensures accurate filte
  </tr>
  <tr>
   <td>
-   <img src="" width="642">
+   <img src="https://github.com/Bill-Davis-data/Candidate-Project-1/blob/main/Assets/Sales%20by%20Region%20%26%20Type%20Page.png" width="642">
   </td>
  </tr>
 </table>
